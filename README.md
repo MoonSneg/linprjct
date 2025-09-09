@@ -42,7 +42,7 @@ __[Припев]__
 
 
 
-\'''python
+\```python
 while True:
 	print("работать")
-\'''
+\```
